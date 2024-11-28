@@ -1,0 +1,40 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "This is namaste react by vineetha.Iam renames as react-learning",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vineeth1123/namaste-react.git"
+  },
+  "keywords": [
+    "namste",
+    "react",
+    "first",
+    "learning",
+    "vineetha"
+  ],
+  "author": "vineetha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vineeth1123/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Vineeth1123/namaste-react#readme",
+  "devDependencies": {
+    "@parcel/core": "^2.13.2",
+    "@parcel/resolver-default": "^2.13.2",
+    "parcel": "^2.13.2",
+    "postcss": "^8.4.49",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.15"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
+  }
+}
